@@ -1,0 +1,3 @@
+ip  Black___armyHiQH.aternos.me
+Port: 35252
+name onlinekaraz
